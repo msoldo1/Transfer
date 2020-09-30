@@ -1,0 +1,17 @@
+#testimonial{
+    background-image: url('../images/photo5.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 50px 0 30px 0;
+    text-align:center;
+    margin-top:40px;
+}
+
+#testimonial p{
+    font-size:32px;
+    font-family: 'Josefin Sans';
+    color:rgb(253, 83, 5);
+}
+
+
